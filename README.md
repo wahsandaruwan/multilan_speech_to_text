@@ -23,6 +23,8 @@ This is a simple multi language speech recognition script that uses english and 
     * pip
     * PyAudio
 
+### License : MIT
+
 ## You are welcome to this update this project if it contains any miss matches.
 
 
